@@ -4,9 +4,11 @@
 I am a **Computer Engineering student** at (University of Buenos Aires), currently building my path in the tech world. **I am expanding my knowledge in both front-end and back-end development**
 **I love learning and creating things that are productive, innovative, and data-driven.**
 
-* 🌱 I’m currently learning ... **Cloud Computing** and **Full Stack Development**.
-* 👯 I’m looking forward to collaborate on **Open Source Python projects**.
-* ✔ Ask me about **Python, Excel, SQL or how to optimize processes**.
+* 🌱 I’m currently learning ...
+    * **Cloud Computing (AWS/Render)**
+    * **Advanced Computer Vision**
+* 👯 I’m looking forward to collaborate on open source projects.
+* ✔ Ask me about anything, I am happy to help
 
 ### 💜 Outside tech
 I love **singing**, **training at the gym**, and exploring the intersection of **Fashion & Tech**.
