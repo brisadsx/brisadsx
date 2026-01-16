@@ -1,6 +1,6 @@
 ### Hi , I'm Brisa! 👋
 
-### <img "![a42ca94d2c24b94c5d00e940a8451952](https://github.com/user-attachments/assets/625f07fd-df24-4ef7-8e9c-3bb57d3c0626)" width="40"> &nbsp; _**About me**_
+### <img src="https://github.com/user-attachments/assets/625f07fd-df24-4ef7-8e9c-3bb57d3c0626" width="45"> &nbsp; _**About me**_
 I am a **Computer Engineering student** at (University of Buenos Aires), currently building my path in the tech world. **I am expanding my knowledge in both front-end and back-end development**
 **I love learning and creating things that are productive, innovative, and data-driven.**
 
