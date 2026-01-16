@@ -1,6 +1,6 @@
-### Hi , I'm Brisa Machicado! 👋
+### Hi , I'm Brisa! 👋
 
-### <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5db39927-9388-45fe-b341-5b1e2fca4d6f" />About me
+### <img src="https://media.giphy.com/media/LpDmM2r9sXhDP9k9qS/giphy.gif" width="35"> &nbsp; _**About me**_
 I am a **Computer Engineering student** at (University of Buenos Aires), currently building my path in the tech world. **I am expanding my knowledge in both front-end and back-end development**
 **I love learning and creating things that are productive, innovative, and data-driven.**
 
