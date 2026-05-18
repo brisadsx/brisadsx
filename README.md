@@ -54,7 +54,7 @@
 
   <br>
 
-  <a href="https://www.linkedin.com/in/brisa-gabriela/"><img src="https://cdn.simpleicons.org/linkedin/ffc0cb" alt="LinkedIn" height="25" /></a>&nbsp;&nbsp;
-  <a href="mailto:contact@brisadsx.com"><img src="https://cdn.simpleicons.org/gmail/ffc0cb" alt="Email" height="25" /></a>
+  <a href="https://www.linkedin.com/in/brisa-gabriela/"><img src="https://cdn.simpleicons.org/linkedin/ffc0ca" alt="LinkedIn" width="25" height="25" /></a>&nbsp;&nbsp;
+  <a href="mailto:contact@brisadsx.com"><img src="https://cdn.simpleicons.org/gmail/ffc0ca" alt="Email" width="25" height="25" /></a>
 
 </div>
