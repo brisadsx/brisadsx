@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffc0cb&background=00000000&center=true&vCenter=true&width=400&lines=Hi,+I'm+Brisa;Engineering+Student;Cybersecurity+Enthusiast" alt="Welcome Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffc0cb&background=00000000&center=true&vCenter=true&width=400&lines=Hi,+I'm+Brisa;Engineering+Student;Design Engineer" alt="Welcome Animation" />
 </div>
 
 ### <img src="https://github.com/user-attachments/assets/42fcd000-e863-4be1-9db7-3e77ccab9c15" width="45"> &nbsp; About Me
