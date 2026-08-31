@@ -31,25 +31,10 @@
 <br/>
 
 <div align="center">
-  
-   ### Combined Performance Metrics
-
-  <br>
-  
-  <img src="https://github-readme-stats.shion.dev/api?username=brisadsx&show_icons=true&bg_color=000000&title_color=f5f5f5&icon_color=ffc0cb&text_color=ffffff&hide_border=true&hide_rank=true" alt="Github Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brisadsx&layout=compact&bg_color=000000&title_color=f5f5f5&icon_color=ffc0cb&text_color=ffffff&hide_border=true&hide=java" alt="Top Langs" />
-
-</div>
-
-<br/>
-<hr style="border:1px solid #f5f5f5;"/>
-<br/>
-
-<div align="center">
 
   ### Connect with me
 
   <br>
-  <a href="mailto:contact@brisadsx.com"><img src="https://cdn.simpleicons.org/gmail/ffc0ca" alt="Email" width="25" height="25" /></a>
+  <a href="mailto:contact@brisadsx.com"><img src="https://cdn.simpleicons.org/gmail/f5f5f5" alt="Email" width="25" height="25" /></a>
 
 </div>
