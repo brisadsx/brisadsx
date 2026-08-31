@@ -26,15 +26,3 @@
   <img src="https://cdn.simpleicons.org/git/f5f5f5" alt="Git" height="30" />
 </div>
 
-<br/>
-<hr style="border:0.5px solid #212121;"/>
-<br/>
-
-<div align="center">
-
-  ### Connect with me
-
-  <br>
-  <a href="mailto:contact@brisadsx.com"><img src="https://cdn.simpleicons.org/gmail/f5f5f5" alt="Email" width="25" height="25" /></a>
-
-</div>
