@@ -10,7 +10,6 @@
   <h3>Core Technology Stack</h3>
   
   <img src="https://cdn.simpleicons.org/html5/f5f5f5" alt="HTML5" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=f5f5f5&style=flat-square&labelColor=transparent&color=transparent" alt="CSS3" height="30" />
   <img src="https://cdn.simpleicons.org/javascript/f5f5f5" alt="JavaScript" height="30" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/f5f5f5" alt="TypeScript" height="30" />&nbsp;
   <img src="https://cdn.simpleicons.org/python/f5f5f5" alt="Python" height="30" />&nbsp;
