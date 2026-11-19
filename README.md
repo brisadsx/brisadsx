@@ -2,7 +2,7 @@
 
 Hi! I'm Brisa. Nice to meet you. I study Computer Engineering at UBA in Buenos Aires and work as a freelance Design Engineer. I've always loved diving deep into how things work, bringing together thoughtful design and code.
 
-I'm always up for talking tech, learning something new, or collaborating on interesting ideas feel free to reach out and say hi.
+I love talking about design, code, and creative side projects—if anything here catches your eye, come say hi.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><img src="./assets/stack-light.svg" alt="Stack: HTML5, JavaScript, TypeScript, Python, C, React, Figma, Node.js, Express.js, MongoDB, Linux, Git, GitHub" /></picture>
 
