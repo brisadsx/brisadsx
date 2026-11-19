@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="112" height="38" viewBox="0 0 112 38" role="img" aria-label="email">
 <style>text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }</style>
 <rect x=".5" y=".5" width="111" height="37" rx="6" fill="#161b22" stroke="#30363d" />
-<text x="16" y="24" font-size="14"><tspan fill="#8b949e">></tspan><tspan fill="#e6edf3"> email</tspan><tspan fill="#ffffff"> ↗</tspan></text>
+<text x="16" y="24" font-size="14"><tspan fill="#FCEFF5">></tspan><tspan fill="#e6edf3"> email</tspan><tspan fill="#FCE4EE"> ↗</tspan></text>
 </svg>

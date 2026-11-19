@@ -1,8 +1,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" /><img src="./assets/header-light.svg" alt="Brisa" /></picture>
 
-Hi! I'm Brisa. Nice to meet you. I study Computer Engineering at the University of Buenos Aires (UBA), and I'm currently building my path across full-stack development, systems, and data. I've always been the kind of person who digs into things until getting to the bottom of them, and I love turning that curiosity into practical, data-driven projects.
+Hi! I'm Brisa. Nice to meet you. I study Computer Engineering at UBA in Buenos Aires and work as a freelance Design Engineer. I've always loved diving deep into how things work, bringing together thoughtful design and code.
 
-I'm always up for talking tech, learning something new, or collaborating on interesting ideas—feel free to reach out and say hi.
+I'm always up for talking tech, learning something new, or collaborating on interesting ideas feel free to reach out and say hi.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><img src="./assets/stack-light.svg" alt="Stack: HTML5, JavaScript, TypeScript, Python, C, React, Figma, Node.js, Express.js, MongoDB, Linux, Git, GitHub" /></picture>
 
