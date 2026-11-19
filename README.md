@@ -1,6 +1,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" /><img src="./assets/header-light.svg" alt="Brisa" /></picture>
 
-I am a Computer Engineering student at University of Buenos Aires, currently building my path in the tech world. As someone who has never stopped learning and investigating things until getting to the bottom of them, I am expanding my knowledge in both front-end and back-end development. I love creating things that are productive, innovative, and data-driven.
+Hi! I'm Brisa. Nice to meet you. I study Computer Engineering at the University of Buenos Aires (UBA), and I'm currently building my path across full-stack development, systems, and data. I've always been the kind of person who digs into things until getting to the bottom of them, and I love turning that curiosity into practical, data-driven projects.
+
+I'm always up for talking tech, learning something new, or collaborating on interesting ideas—feel free to reach out and say hi.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><img src="./assets/stack-light.svg" alt="Stack: HTML5, JavaScript, TypeScript, Python, C, React, Figma, Node.js, Express.js, MongoDB, Linux, Git, GitHub" /></picture>
 
